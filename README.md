@@ -1,1 +1,1 @@
-# 05CI
+# 05CI [![Build Status](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME}.png?branch=master)]
