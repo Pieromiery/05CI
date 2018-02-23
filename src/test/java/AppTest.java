@@ -6,9 +6,9 @@ import static org.junit.Assert.*;
 
 public class AppTest {
 	@Test
-		public void testSmallPrime() {
-			App appObj = new App;
-			assertEquals(appObj.isPrime(17), true);
+	public void testSmallPrime() {
+		App appObj = new App();
+		assertEquals(appObj.isPrime(17), true);
 	}
 	@Test
 	public void testSmallNoPrime(){
@@ -18,8 +18,9 @@ public class AppTest {
 	@Test
 	public void testLargePrime(){
 		App appObj = new App();
-		assertEquals(appObj.isPrime(3241619049L), true);
+		assertEquals(appObj.isPrime(32416189049L), true);
 	}
+	@Test
 	public void testLargeNoPrime(){
 		App appObj = new App();
 		assertEquals(appObj.isPrime(3216189051L), false);
