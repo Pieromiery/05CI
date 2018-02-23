@@ -4,7 +4,7 @@
 public class App {
 	public boolean isPrime(long number){
 		
-		double max = Math.sqrt(number)+i;
+		double max = Math.sqrt(number)+1;
 		
 		if (number == 2)
 			return true;
