@@ -1,1 +1,2 @@
-# 05CI [![Build Status](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME}.png?branch=master)]
+# 05CI [![Build Status](https://travis-ci.org/{ORG-or-Pieromiery}/{Poom l Phumsiri
+}.png?branch=master)]
